@@ -1,4 +1,1 @@
-This is a file1 Line 1.
-Error x = 7
-This is a file1 Line 1.
-Error x = 7
+x = 4
